@@ -1,0 +1,7 @@
+{
+  "name": "HotelPro",
+  "description": "Complete hotel booking, reservations, and luxury hospitality management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
